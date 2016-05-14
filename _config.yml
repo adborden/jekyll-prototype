@@ -18,3 +18,9 @@ source_url: "https://github.com/adborden/jekyll-prototype" # Where you can find 
 
 # Build settings
 markdown: kramdown
+
+exclude:
+  - node_modules
+  - npm-debug.log
+  - package.json
+  - README.md

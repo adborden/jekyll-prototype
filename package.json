@@ -1,0 +1,29 @@
+{
+  "name": "jekyll-prototype",
+  "version": "0.0.0",
+  "description": "A jekyll template for prototyping simple websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adborden/jekyll-prototype.git"
+  },
+  "keywords": [
+    "jekyll",
+    "prototype",
+    "template",
+    "scaffold",
+    "simple"
+  ],
+  "author": "Aaron D Borden <adborden@a14n.net>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/adborden/jekyll-prototype/issues"
+  },
+  "homepage": "https://github.com/adborden/jekyll-prototype#readme",
+  "dependencies": {
+    "normalize.css": "^4.1.1"
+  }
+}

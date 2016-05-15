@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Getting started
+permalink: /getting-started/
 ---
 
 You can edit `getting-started.md` to change this page. Jekyll understands many
@@ -14,6 +15,7 @@ the `published` attribute in the front matter:
 ---
 layout: default
 title: Your new page
+permalink: /new-page/
 published: true
 ---
 ```

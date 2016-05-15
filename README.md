@@ -27,6 +27,11 @@ Install the dependencies and start the development server.
 Open your browser to [http://localhost:4000/](http://localhost:4000/).
 
 
+--
+_This prototype is based on
+[jekyll-prototype](https://github.com/adborden/jekyll-prototype)._
+
+
 [jekyll-site]: https://jekyllrb.com/
 [node-download]: https://nodejs.org/en/download/
 [npm-site]: https://www.npmjs.com/

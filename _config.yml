@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: A Jekyll prototype
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to Jekyll prototype, a simple toolkit for prototyping simple websites.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 source_url: "https://github.com/adborden/jekyll-prototype" # Where you can find the source to this prototype
 
 # Build settings
+#
+# You probably don't change these unless you know what you're doing :)
+jekyll_prototype_url: "https://github.com/adborden/jekyll-prototype"
 markdown: kramdown
 
 exclude:

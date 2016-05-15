@@ -19,6 +19,14 @@ published: true
 ```
 
 
+## SASS/SCSS
+
+Jekyll uses [SASS/SCSS](http://sass-lang.com/) to create CSS. You can add your
+own styles to `_sass/_custom.scss`.
+
+Not familiar with SCSS? No problem, you can just write CSS to `assets/css/custom.css`
+
+
 ## Helpful resources
 
 If you have trouble, start with the [Jekyll

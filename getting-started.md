@@ -27,6 +27,23 @@ own styles to `_sass/_custom.scss`.
 Not familiar with SCSS? No problem, you can just write CSS to `assets/css/custom.css`
 
 
+## Javascript
+
+The index page loads `assets/js/index.js`. Other pages don’t load anything by
+default. You can add the `javascript` to a page’s front matter to load a specific
+file, e.g.
+
+```
+---
+layout: page
+title: Getting started
+javascript: getting-started.js
+---
+```
+
+Will load `assets/js/getting-started.js`.
+
+
 ## Helpful resources
 
 If you have trouble, start with the [Jekyll

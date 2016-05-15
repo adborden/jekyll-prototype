@@ -11,6 +11,9 @@
 
     {% include footer.html %}
 
+    {% if page.javascript %}
+    <script src="{{ "/" | append:page.javascript | prepend:"/assets/js/" | prepend:site.baseurl }}"></script>
+    {% endif %}
   </body>
 
 </html>

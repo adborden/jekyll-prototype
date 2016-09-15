@@ -13,7 +13,7 @@ the `published` attribute in the front matter:
 
 ```
 ---
-layout: default
+layout: page
 title: Your new page
 permalink: /new-page/
 published: true
@@ -32,7 +32,7 @@ Not familiar with SCSS? No problem, you can just write CSS to `assets/css/custom
 ## Javascript
 
 The index page loads `assets/js/index.js`. Other pages don’t load anything by
-default. You can add the `javascript` to a page’s front matter to load a specific
+default. You can add the `javascript` property to a page’s front matter to load a specific
 file, e.g.
 
 ```
